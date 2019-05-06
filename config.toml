@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Information Security"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/ribice\">Vijay Ronan</a> 2017"
-disqusShortname = "shortname"
+disqusShortname = ""
 googleAnalytics = ""
 # Number of posts per page
 Paginate = 5
