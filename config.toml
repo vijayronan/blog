@@ -2,7 +2,7 @@ baseurl = "https://blog.instanest.in"
 languageCode = "en"
 title = "Information Security"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+copyright = "&copy; <a href=\"https://github.com/ribice\">Vijay Ronan</a> 2017"
 disqusShortname = "shortname"
 googleAnalytics = ""
 # Number of posts per page
@@ -18,8 +18,8 @@ customCSS = ["css/custom.css"]
 [params.rss]
 
 includeContent = true # Includes whole content in rss
-authorName = "Emir Ribic" # Site author's full name
-authorEmail = "ribice@gmail.com"
+authorName = "Vijay Ronan" # Site author's full name
+authorEmail = "vijay.ronan@gmail.com"
 
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
@@ -38,10 +38,10 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "ribicemir"
-github = "ribice"
-email = "ribice@gmail.com"
-linkedin = "ribice"
+twitter = "vijayronan"
+github = "vijayronan"
+email = "vijayronan"
+linkedin = "vijayronan"
 gitlab = "ribice"
 instagram = ""
 codepen = ""
