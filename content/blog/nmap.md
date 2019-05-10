@@ -10,4 +10,4 @@ Nmap is an open-source network scanner. It is used to discover hosts and service
 * **Port scanning** – Enumerating the open ports on target hosts.
 * **Version detection** – Interrogating network services on remote devices to determine application name and version number
 * **OS detection** – Determining the operating system and hardware characteristics of network devices.
-* **Scriptable interaction with the target** – using Nmap Scripting Engine and Lua programming language.
+* **Scriptable interaction with the target** – using Nmap Scripting Engine(NSE) and Lua programming language.
