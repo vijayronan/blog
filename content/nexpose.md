@@ -14,4 +14,3 @@ Nexpose components:
 * **PostgreSQL database** - The embedded PostgreSQL databases stores all the asset scan data and is used for generating reports.
 * **Local Scan Engine** - Scan Engines are responsible for performing scan jobs on your assets. Your installation includes a local Scan Engine that you can use for trial purposes like this one. Note that Scan Engines only store scan data temporarily before sending it back to the Security Console for integration and long-term storage.
 
-* **TEST**
