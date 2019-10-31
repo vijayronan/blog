@@ -13,7 +13,7 @@ Nmap is an open-source network scanner. It is used to discover hosts and service
 * **Scriptable interaction with the target** – using Nmap Scripting Engine(NSE) and Lua programming language.
 
 
-## Host Discovery
+### Host Discovery
 
 * **Ping Scan -sn**
 * **TCP SYN Scan -sn -PS**
