@@ -6,7 +6,7 @@ copyright = "&copy; <a href=\"https://github.com/vijayronan\">Vijay Ronan</a> 20
 disqusShortname = ""
 googleAnalytics = ""
 # Number of posts per page
-Paginate = 5
+Paginate = 50
 enableRobotsTXT = true
 
 [params.rss]
