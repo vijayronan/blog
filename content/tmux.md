@@ -1,10 +1,9 @@
 +++
 title = "Tmux"
 date = 2020-03-16T22:53:17+05:30
-tags = []
+tags = ['tmux']
 draft = false
 +++
-Last login: Mon Mar 16 22:46:45 on ttys000
 ```
 # remap prefix from 'C-b' to 'C-a'
 unbind C-b
