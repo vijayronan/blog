@@ -1,8 +1,8 @@
 baseurl = "https://blog.networksec.in"
 languageCode = "en"
-title = "Information Security"
+title = "Security"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/vijayronan\">Vijay Ronan</a> 2019"
+copyright = "&copy; <a href=\"https://github.com/vijayronan\">Vijay Ronan</a> 2020"
 disqusShortname = ""
 googleAnalytics = ""
 # Number of posts per page
