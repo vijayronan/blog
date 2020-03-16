@@ -5,12 +5,7 @@ tags = []
 draft = false
 +++
 Last login: Mon Mar 16 22:46:45 on ttys000
-
-
-~$
-~$
-~$
-~$ cat .tmux.conf
+```
 # remap prefix from 'C-b' to 'C-a'
 unbind C-b
 set-option -g prefix C-a
@@ -50,15 +45,4 @@ bind-key -T copy-mode-vi y send-keys -X copy-selection
 bind-key -T copy-mode-vi r send-keys -X rectangle-toggle
 unbind p
 bind p paste-buffer
-~$
-
-
-
-
-
-
-
-
-
-
-
+```
