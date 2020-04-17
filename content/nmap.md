@@ -21,11 +21,6 @@ Nmap is an open-source network scanner. It is used to discover hosts and service
 
 
 
-### Scan all TCP ports with Range
-```
-nmap -n -p0-65535 192.168.1.1
-```
-
 ### Scan all TCP ports
 ```
 nmap -n -p- 192.168.1.1

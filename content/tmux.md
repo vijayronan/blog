@@ -34,7 +34,8 @@ title = "Tmux Sheet Cheat"
     
     #enable vi keys.
     setw -g mode-keys vi
-    
+
+    #enable mouse  
     set -g mouse on
     
     bind Escape copy-mode
