@@ -4,6 +4,7 @@ tags = ["tmux"]
 title = "Tmux Sheet Cheat"
 
 +++
+
     # remap prefix from 'C-b' to 'C-a'
     unbind C-b
     set-option -g prefix C-a
@@ -25,7 +26,7 @@ title = "Tmux Sheet Cheat"
     
     #Status line righ side - 31-Oct 13:37
     set -g status-right "#[fg=black]%d %b %R"
-    
+
     #Update the status line every sixty seconds
     set -g status-interval 60
     
