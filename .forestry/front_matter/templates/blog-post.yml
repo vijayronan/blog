@@ -12,4 +12,4 @@ fields:
   name: tags
   label: tags
 pages:
-- content/test-page.md
+- content/test.md
