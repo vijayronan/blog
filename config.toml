@@ -1,5 +1,8 @@
+# REMOVE THIS
+themesDir = "../../" 
+
 # DO NOT REMOVE THIS
-theme = "codex" 
+theme = "hugo-theme-codex" 
 
 # Override these settings with your own
 title = "codex"
@@ -20,8 +23,8 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/<your handle>"
+  twitter = "https://twitter.com/vijayronan"
+  github = "https://github.com/vijayronan"
   # email = "mailto:<your email>"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
